@@ -10,3 +10,6 @@ backend/.env
 logs/
 *.log
 npm-debug.log*
+frontend/dist/
+config.bat
+node_modules
